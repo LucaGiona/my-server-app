@@ -38,3 +38,8 @@ wss.broadcast = function broadcast(data){
         client.send(data)
     })
 }
+
+/**end websockets */
+/**Begin database */
+
+
